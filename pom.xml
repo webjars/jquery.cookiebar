@@ -11,7 +11,7 @@
   <packaging>jar</packaging>
   <groupId>org.webjars</groupId>
   <artifactId>jquery.cookiebar</artifactId>
-  <version>1.2.1-SNAPSHOT</version>
+  <version>1.2.1</version>
   <name>jquery.cookiebar</name>
   <description>WebJar for jquery.cookiebar</description>
   <url>http://webjars.org</url>
@@ -42,7 +42,7 @@
     <url>http://github.com/webjars/jquery.cookiebar</url>
     <connection>scm:git:https://github.com/webjars/jquery.cookiebar.git</connection>
     <developerConnection>scm:git:https://github.com/webjars/jquery.cookiebar.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>jquery.cookiebar-1.2.1</tag>
   </scm>
 
   <build>
